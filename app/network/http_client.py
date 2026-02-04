@@ -11,6 +11,11 @@ class HttpClient:
         self.session = requests.Session()
         self.timeout = timeout
         
+        # 设置默认User-Agent头
+        self.session.headers.update({
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0"
+        })
+        
         retry_strategy = Retry(
             total=retries,
             status_forcelist=[429, 500, 502, 503, 504],
