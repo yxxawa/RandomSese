@@ -1,6 +1,4 @@
 <img  alt="image" src="https://socialify.git.ci/yxxawa/RandomSese/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Light" />   
-# 🔞随机Setu下载器🔞
-
 一个简单易用的随机二次元色图下载工具，支持从多个API源获取随机r18图片并下载到本地。   
 
 ## 界面
