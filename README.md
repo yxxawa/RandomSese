@@ -1,3 +1,4 @@
+<img width="604" height="497" alt="image" src="[https://github.com/user-attachments/assets/1ded2b0a-36a4-429c-a12a-bceadeb53eca](https://socialify.git.ci/yxxawa/RandomSese/image?language=1&owner=1&name=1&stargazers=1&theme=Light)" />
 # 🔞随机Setu下载器🔞
 
 一个简单易用的随机二次元色图下载工具，支持从多个API源获取随机r18图片并下载到本地。   
